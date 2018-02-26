@@ -8,6 +8,6 @@ date: 2017-01-01
 location: "Tucson, USA"
 ---
 
-*EAS 160 East Asian Languages and Culture
-*CHN101 Introduction to Chinese Language
-*CHN 201 Intermediate Modern Chinese
+* EAS 160 East Asian Languages and Culture
+* CHN101 Introduction to Chinese Language
+* CHN 201 Intermediate Modern Chinese
