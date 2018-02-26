@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Yi is a Ph.D. candidate majoring in Chinese Linguistics and minoring in Second Language Acquisition & Teaching. Her current research interests intersect with study aboard, multilingualism, language ideology, Chinese sociolinguistics and linguistic anthropology. 
+Yi is a Ph.D. candidate in Chinese Applied Linguistics and Second Language Acquisition & Teaching at the University of Arizona. Many of Yi's research interests reflect her own experience as a language teacher and program director, whose students are mostly multilingual and transnational individuals. Her current research interests intersect with study aboard, multilingualism, language ideology, Chinese sociolinguistics and linguistic anthropology.
