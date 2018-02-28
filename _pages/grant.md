@@ -6,9 +6,7 @@ author_profile: true
 redirect_from:
   - /grant
 ---
-
 {% include base_path %}
-
 ## Grants and Fellowships
 * 2018 Tao-Chung Ted Yao Memorial Award (Shortlisted)
 * 2017 Second Language Acquisition and Teaching (SLAT) Travel Award ($200)
