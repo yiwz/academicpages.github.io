@@ -1,7 +1,7 @@
 ---
 title: "Study abroad teaching"
 collection: teaching
-type: "Undergraduate course"
+type: "study abroad"
 permalink: /teaching/study-abroad-teaching
 venue: "University of Arizona, Department of East Asian Studies"
 date: 2018-04-01
