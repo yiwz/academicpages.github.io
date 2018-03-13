@@ -8,7 +8,7 @@ date: 2016-01-01
 location: "Tucson, USA"
 ---
 
-* CHN101 Introduction to Chinese Language
+* CHN 101 Introduction to Chinese Language
 * CHN 201 Intermediate Modern Chinese
 * EAS 245 Korean Popular Culture (Online)
 * EAS 222 Introduction to Zen Buddhism (Online) 
