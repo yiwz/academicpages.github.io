@@ -11,6 +11,7 @@ redirect_from:
 ## Grants and Fellowships
 
 * 2018 Tao-Chung Ted Yao Memorial Award 
+* 2018 Graduate and Professional Student Council Travel Grant
 * 2018 Research and Project Grant, Graduate and Professional Student Council
 * 2017 Second Language Acquisition and Teaching (SLAT) Travel Award 
 * 2017 American Council on the Teaching of Foreign Languages (ACTFL) First Time Attendee Scholarship 
