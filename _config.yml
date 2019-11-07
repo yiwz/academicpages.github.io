@@ -73,14 +73,14 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          :  "UA-150906258-1"
 
 
 # Site Author
 author:
   name             : ""
-  avatar           : "profile.png"
-  bio              : "Wife. ABD at UofA studying applied linguistics."
+  avatar           : "profile.jpg"
+  bio              : "ABD at UofA studying applied linguistics."
   location         : "Tucson, AZ, USA"
   employer         :
   googlescholar    : #""
