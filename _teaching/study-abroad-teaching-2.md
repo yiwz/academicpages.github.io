@@ -10,9 +10,12 @@ location: "Tucson, USA"
 
 * Arizona in Hangzhou Summer Study Abroad Program (Director: Dr. Albert Welter)
 * Program Lead Coordinator and Instructor, in-charge-of Language Portion 
-* Course to be Taught  
+* Course Taught  
 * CHN202 Intermediate Modern Chinese
 * CHN404 Advanced Modern Chinese 
+* Course Supervised 
+* CHN102 Introduction to Chinese Language 
+* CHN201 Intermediate Modern Chinese 
 
 
 

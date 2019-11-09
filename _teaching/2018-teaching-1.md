@@ -9,3 +9,4 @@ location: "Tucson, USA"
 ---
 
 * EAS 160 East Asian Languages and Culture
+* RELI150 Introduction to World Buddhism

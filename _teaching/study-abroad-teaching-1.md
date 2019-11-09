@@ -10,7 +10,7 @@ location: "Tucson, USA"
 
 * Arizona in Shanghai Summer Study Abroad Program (Director: Dr. Wenhao Diao)
 * 2016	Teaching Associate, University of Arizona 
-* 2017 	On-site Coordinator, University of Arizona
+* 2017 	On-site Coordinator and Liaison, University of Arizona
 * Course Taught  
 * CHN 201 Intermediate Modern Chinese (Five-week Intensive Language Course)
 
