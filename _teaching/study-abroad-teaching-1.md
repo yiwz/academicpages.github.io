@@ -4,7 +4,7 @@ collection: teaching
 type: "Study abroad"
 permalink: /teaching/study-abroad-teaching-1
 venue: "University of Arizona, Department of East Asian Studies"
-date: 2018-04-01
+date: 2017-06-01
 location: "Tucson, USA"
 ---
 
