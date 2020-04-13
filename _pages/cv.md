@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Download CV PDF Version: Wang_CV.pdf](https://yiwz.github.io/files/wang_cv.pdf)
+[Download my CV here: Wang_CV.pdf](https://yiwz.github.io/files/wang_cv.pdf)
