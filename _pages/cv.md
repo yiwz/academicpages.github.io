@@ -7,7 +7,4 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-[Download my CV here](https://yiwz.github.io/files/wang_cv.pdf)
-======
+[Download my CV here: Wang_CV.pdf](https://yiwz.github.io/files/wang_cv.pdf)
