@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yi Wang"
 title_separator          : "-"
 name                     : &name ""
-description              : &description "ABD at UofA."
+description              : &description "Ph.D. in EAS"
 url                      : https://yiwz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yiwz/yiwz.github.io"
@@ -80,8 +80,8 @@ analytics:
 author:
   name             : ""
   avatar           : "profile.jpg"
-  bio              : "ABD at UofA studying applied linguistics."
-  location         : "Tucson, AZ, USA"
+  bio              : "Ph.D. studying applied linguistics."
+  location         : "USA"
   employer         :
   googlescholar    : #""
   email            :
