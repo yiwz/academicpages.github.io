@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Wang-Vita.pdf [Download File Here](https://yiwz.github.io/files/wang_cv.pdf)
+Wang-Vita.pdf: [Please Download File Here](https://wangy.org/files/wang_cv.pdf)
